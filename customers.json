@@ -1,0 +1,10 @@
+{
+	"AirFrance": {
+	"token": "a989597bde6feff4158dbdd64f4b44b7",
+	"resources" :{
+		"1": "7010",
+		"2": "7011"		
+		},
+	 "resource_concurrent_limit":3
+	}
+}
